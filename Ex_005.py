@@ -1,0 +1,5 @@
+x = input('Digite letras, números ou qualquer coisa: ')
+print(type(x))
+print('É alfanumerico:', x.isalnum())
+print('É somente letras:', x.isalpha())
+print('É numerico: ', x.isnumeric())
