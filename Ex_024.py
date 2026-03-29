@@ -1,0 +1,5 @@
+n1 = input("Digite um numero entre 0 e 9999: ").zfill(4)
+print(f"A unidade do número digitado é: {n1[3]}")
+print(f"A dezena do número digitado é: {n1[2]}")
+print(f"A centena do número digitado é: {n1[1]}")
+print(f"O milhar do número digitado é: {n1[0]}")
