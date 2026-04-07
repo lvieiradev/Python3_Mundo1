@@ -6,4 +6,4 @@ if velocidade > 80:
     print("Você passouacima do limite de velocidade da via")
     print(f"Você será multado em R$ {multa_t} ")
 else:
-    print("Você passou dentro do limitee de velocidade e não  será multado :D")
+    print("Você passou dentro do limite de velocidade e não  será multado :D")
